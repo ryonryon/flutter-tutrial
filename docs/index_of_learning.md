@@ -1,6 +1,4 @@
-
-
-site which I read.
+#site which I read.
 
 Flutterの効率良い学び方
 https://medium.com/flutter-jp/flutter-learning-c5640c5f05b9
@@ -14,7 +12,8 @@ https://qiita.com/aoinakanishi/items/f0e45d525e252c5764b5
 Flutter の Widget ツリーの裏側で起こっていること
 https://medium.com/flutter-jp/dive-into-flutter-4add38741d07
 
-site which I follow.
+
+#site which I follow.
 
 Write your first Flutter app
 https://flutter.dev/docs/get-started/codelab
@@ -24,7 +23,7 @@ https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0
 
 
 
-site which I will read
+#site which I will read
 
 Flutter Layout Cheat Sheet
 https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
@@ -37,7 +36,7 @@ https://www.dartlang.org/guides/language/language-tour
 
 
 
-Learn more about the Flutter SDK:
+#Learn more about the Flutter SDK:
 
 Building Layouts in Flutter tutorial
 https://flutter.io/tutorials/layout/
