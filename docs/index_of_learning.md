@@ -1,24 +1,12 @@
 # site which I read.
 
-### Flutterの効率良い学び方
-
-https://medium.com/flutter-jp/flutter-learning-c5640c5f05b9
-
-### Flutter入門講座 Lesson 1 (Udacity)
-
-https://qiita.com/aoinakanishi/items/b384e5a88ea4f6dc4b3d
-
-### Flutter入門講座 Lesson 2 (Udacity)
-
-https://qiita.com/aoinakanishi/items/f0e45d525e252c5764b5
-
-### Flutter の Widget ツリーの裏側で起こっていること
-
-https://medium.com/flutter-jp/dive-into-flutter-4add38741d07
-
 ### Flutter tutorial
 
 https://flutter.dev/docs/reference/tutorials
+
+### Layout turorial
+
+https://flutter.dev/docs/development/ui/layout/tutorial
 
 
 # site which I follow.
@@ -105,3 +93,22 @@ https://www.dartlang.org/tutorials/language/futures
 https://www.dartlang.org/tutorials/language/streams
 
 
+
+
+# Japanese website
+
+### Flutterの効率良い学び方
+
+https://medium.com/flutter-jp/flutter-learning-c5640c5f05b9
+
+### Flutter入門講座 Lesson 1 (Udacity)
+
+https://qiita.com/aoinakanishi/items/b384e5a88ea4f6dc4b3d
+
+### Flutter入門講座 Lesson 2 (Udacity)
+
+https://qiita.com/aoinakanishi/items/f0e45d525e252c5764b5
+
+### Flutter の Widget ツリーの裏側で起こっていること
+
+https://medium.com/flutter-jp/dive-into-flutter-4add38741d07
