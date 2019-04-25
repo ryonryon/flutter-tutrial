@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981911085699",
+    "firebase_url": "https://ryo-baby-name-app-db.firebaseio.com",
+    "project_id": "ryo-baby-name-app-db",
+    "storage_bucket": "ryo-baby-name-app-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981911085699:android:fa426eaa03f312de",
+        "android_client_info": {
+          "package_name": "com.example.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981911085699-2jr494snd0i00icmjl47j8apdusm0602.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcb8JX-a04PODrPyKFyIGdkdB08sxrUM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981911085699-2jr494snd0i00icmjl47j8apdusm0602.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981911085699-bagjhm2ss0vj6br3494fqpgfvdqaqsbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.babyNames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
